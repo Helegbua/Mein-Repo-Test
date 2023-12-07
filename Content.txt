@@ -1,5 +1,6 @@
 FarbTest
 
 Grün
-Blau
+Hellblau
+Dunkelblau
 Gelb
