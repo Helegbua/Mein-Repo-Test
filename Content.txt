@@ -1,5 +1,7 @@
 FarbTest
 
-Grün
+Rot
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
